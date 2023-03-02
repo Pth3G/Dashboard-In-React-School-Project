@@ -1,4 +1,4 @@
-# React School project Assignment One
+# React-School-Project-Assignment
 
 ## Create a new React project (using either JavaScript or TypeScript)
 

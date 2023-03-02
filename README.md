@@ -1,4 +1,4 @@
-# React WIN21 Assignment One
+# React School project Assignment One
 
 ## Create a new React project (using either JavaScript or TypeScript)
 
